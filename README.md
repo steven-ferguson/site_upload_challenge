@@ -1,7 +1,7 @@
 #Site Uploader
 
 Users currently have the ability to create new sites in our system by sending a
-list of domains in a POST to ```/sites```. The JSON payload would look like the
+list of domains in a POST to ```/sites``` ([see controller here](https://github.com/steven-ferguson/site_upload_challenge/blob/master/app/controllers/sites_controller.rb)). The JSON payload would look like the
 following:
 
 ```
